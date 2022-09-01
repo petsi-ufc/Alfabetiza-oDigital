@@ -45,3 +45,13 @@ O curso foi dividido em cinco módulos que são:
 3. [Capítulo 3](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20cap%203.pdf)
 4. [Capítulo 4](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20cap%204.pdf)
 5. [Capítulo 5](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20cap%205.pdf)
+
+### Depoimentos
+
+*Foi muito válido o curso. Parabéns para os instrutores pela paciência, compromisso e conhecimento. Espero que próximo ano possamos ter a oportunidade de outros cursos.*
+
+*Gostei muito, atendeu a maioria das minhas necessidades, principalmente nas montagens de slide para minhas aulas.*
+
+*Meus sinceros agradecimentos aos professores Victor e Ronnier pela paciência e pela forma dinâmica e prática com que os conteúdos foram trabalhados dentro de tão pouco tempo. Espero que outras oportunidades de aprendizagem possam surgir.*
+
+*Foi um momento de muita aprendizagem e em cima de tudo muita partilha e conhecimento.*
