@@ -14,4 +14,14 @@ O curso foi dividido em cinco módulos que são:
 
 Slides
 
-* [00 - Apresentação](.\Slides\00-Apresentação)
+0. [Apresentação](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/00)
+1. [Informática Básica](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/01)
+2. [Editores de Texto](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/02)
+3. [Planilhas](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/03)
+4. [Internet](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/04)
+5. [Segurança Digital](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/05)
+
+
+Planos de Aula
+
+1. [Conhecendo o computador]()
