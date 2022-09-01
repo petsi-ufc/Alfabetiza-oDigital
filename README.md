@@ -14,11 +14,11 @@ O curso foi dividido em cinco módulos que são:
 
 ### Planos de Aula
 
-1. [Conhecendo o computador](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap1.docx)
-2. [Editor de texto Writer](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap2.docx)
-3. [Planilha Eletrônica Calc](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap3.docx)
-4. [Internet](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap4.docx)
-5. [Segurança Digital](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap5.docx)
+1. [Conhecendo o computador](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap1.pdf)
+2. [Editor de texto Writer](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap2.pdf)
+3. [Planilha Eletrônica Calc](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap3.pdf)
+4. [Internet](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap4.pdf)
+5. [Segurança Digital](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap5.pdf)
 
 
 
