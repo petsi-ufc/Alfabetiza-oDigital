@@ -12,7 +12,17 @@ O curso foi dividido em cinco módulos que são:
 5. segurança digital (passaremos conceitos de segurança e mostraremos como poderão se proteger na internet). 
  
 
-Slides
+### Planos de Aula
+
+1. [Conhecendo o computador](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap1.docx)
+2. [Editor de texto Writer](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap2.docx)
+3. [Planilha Eletrônica Calc](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap3.docx)
+4. [Internet](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap4.docx)
+5. [Segurança Digital](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap5.docx)
+
+
+
+### Slides
 
 0. [Apresentação](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/00)
 1. [Informática Básica](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/01)
@@ -21,7 +31,10 @@ Slides
 4. [Internet](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/04)
 5. [Segurança Digital](https://github.com/petufc/Alfabetiza-oDigital/tree/main/Slides/05)
 
+### Exercícios
 
-Planos de Aula
-
-1. [Conhecendo o computador]()
+1. [Capítulo 1](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20Cap%201.pdf)
+2. [Capítulo 2](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20cap%202.pdf)
+3. [Capítulo 3](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20cap%203.pdf)
+4. [Capítulo 4](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20cap%204.pdf)
+5. [Capítulo 5](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Exerc%C3%ADcios/Exerc%C3%ADcio%20cap%205.pdf)
