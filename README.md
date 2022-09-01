@@ -20,7 +20,14 @@ O curso foi dividido em cinco módulos que são:
 4. [Internet](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap4.pdf)
 5. [Segurança Digital](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Planos%20de%20Aula/Planodeaulacap5.pdf)
 
+### Capítulos
 
+
+1. [Capítulo 1 - Conhecendo o Computador](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Cap%C3%ADtulos%20para%20Aulas/Cap%C3%ADtulo%201%20-%20Conhecendo%20o%20Computador.pdf)
+2. [Capítulo 2 - Editor de Texto Writer](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Cap%C3%ADtulos%20para%20Aulas/Cap%C3%ADtulo%202%20-%20Editor%20de%20Texto%20Writer.pdf)
+3. [Capítulo 3 - Planilha Eletrônica Calc](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Cap%C3%ADtulos%20para%20Aulas/Cap%C3%ADtulo%203%20-%20Planilha%20Eletr%C3%B4nica%20Calc.pdf)
+4. [Capítulo 4 - Internet](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Cap%C3%ADtulos%20para%20Aulas/Cap%C3%ADtulo%204%20-%20Internet.pdf)
+5. [Capítulo 5 - Segurança Digital](https://github.com/petufc/Alfabetiza-oDigital/blob/main/Cap%C3%ADtulos%20para%20Aulas/Cap%C3%ADtulo%205%20-%20Seguran%C3%A7a%20Digital.pdf)
 
 ### Slides
 
